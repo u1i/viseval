@@ -45,3 +45,7 @@ Thumbs.db
 !package.json
 !package-lock.json
 !tsconfig.json
+
+# Allow all files in example_asean_infographics directory
+!example_asean_infographics/**
+!example_asean_infographics/**/*
