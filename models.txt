@@ -1,0 +1,12 @@
+google/gemini-2.5-flash
+google/gemini-2.5-pro
+google/gemma-3-12b-it
+google/gemma-3-27b-it
+google/gemma-3-4b-it
+openai/o4-mini
+openai/gpt-4.1
+openai/gpt-4.1-mini
+anthropic/claude-sonnet-4
+anthropic/claude-opus-4
+anthropic/claude-3.5-haiku
+mistralai/mistral-medium-3

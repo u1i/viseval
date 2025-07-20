@@ -1,0 +1,36 @@
+models:
+  - name: gemini25flash
+    openrouter_model: google/gemini-2.5-flash
+  
+  - name: gemini25pro
+    openrouter_model: google/gemini-2.5-pro
+  
+  - name: gemma3_12b
+    openrouter_model: google/gemma-3-12b-it
+  
+  - name: gemma3_27b
+    openrouter_model: google/gemma-3-27b-it
+  
+  - name: gemma3_4b
+    openrouter_model: google/gemma-3-4b-it
+  
+  - name: o4mini
+    openrouter_model: openai/o4-mini
+  
+  - name: gpt41
+    openrouter_model: openai/gpt-4.1
+  
+  - name: gpt41mini
+    openrouter_model: openai/gpt-4.1-mini
+  
+  - name: claudesonnet4
+    openrouter_model: anthropic/claude-sonnet-4
+  
+  - name: claudeopus4
+    openrouter_model: anthropic/claude-opus-4
+  
+  - name: claude35haiku
+    openrouter_model: anthropic/claude-3.5-haiku
+  
+  - name: mistralmedium3
+    openrouter_model: mistralai/mistral-medium-3

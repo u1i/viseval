@@ -1,0 +1,12 @@
+tests:
+  - prompt: "Turn this infographic into a CSV"
+    description: "Basic CSV conversion"
+    
+  - prompt: "Turn this infographic into a CSV using these columns: Country, GDP, GDP_Per_Capita, Education_Spending_Pct, Military_Spending_Pct, Population"
+    description: "CSV conversion with specific columns"
+    
+  - prompt: "Turn this infographic into a CSV using these columns: Country, GDP, GDP_Per_Capita, Education_Spending_Pct, Military_Spending_Pct, Population. Sort the countries alphabetically."
+    description: "CSV conversion with specific columns and alphabetical sorting"
+    
+  - prompt: "Turn this infographic into a CSV using these columns: Country, GDP, GDP_Per_Capita, Education_Spending_Pct, Military_Spending_Pct, Population. Sort the countries alphabetically. Convert all numbers to their full dollar amounts (not 1.6T but 1600000000000)."
+    description: "CSV conversion with specific columns, alphabetical sorting, and full number formatting"
