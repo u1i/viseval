@@ -16,6 +16,8 @@ This project provides a structured way to run visual evaluation tests across mul
 
 ## Example
 
+![](asean.jpg)
+
 The project includes a sample image (`asean.jpg`) which is an infographic of ASEAN countries with various statistics. The tests in `tests.yaml` are designed to evaluate how well different AI models can extract structured data from this infographic.
 
 ### Sample Data (data.csv)
